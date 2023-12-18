@@ -51,8 +51,3 @@ footer {
 .revealed {
     display: block;
 }
-
-.dev-section,
-.beta-section {
-    display: none;
-}
